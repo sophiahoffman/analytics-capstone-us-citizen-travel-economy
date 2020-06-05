@@ -1,4 +1,4 @@
-# A study of US Citizens' International Travel Patterns During Good and Bad Economic Times
+# A Study of US Citizens' International Travel Patterns During Good and Bad Economic Times
 
 ## Executive Summary
 An analysis of the effect of the economy as described by the stock market, strength of
