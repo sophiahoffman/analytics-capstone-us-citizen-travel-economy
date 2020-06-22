@@ -44,12 +44,12 @@ The Middle East and Africa has shown remarkable growth since 1996. The reasons r
 Travel is heavily effected by geopolitical and economic conditions both domestically and internationally. Though factors such as inflation and exchange rates (which, despite volatility in specfic countries remain for the most part relatively stable or reflect an overall market condition) do not seem to have noticeable impact on travel, events or conditions that lead to high unemployment or lower income do tend to have a strong impact on US citizen international air travel. Recovery times vary by region but the underlying trend is that of increasing travel. Further research into historical air prices may yield interesting data as to how competitive a specific destination may be when cost of travel is considered.
 
 ## Data sources
-Traveler information from National Travel and Tourism Office (https://travel.trade.gov/)
-Economic statistics from St. Louis Federal Reserve Bank (https://fred.stlouisfed.org/)
+Traveler information from National Travel and Tourism Office (https://travel.trade.gov/)  
+Economic statistics from St. Louis Federal Reserve Bank (https://fred.stlouisfed.org/)  
 Tax return data from Internal Revenue Service (https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-return-form-1040-statistics)
 
 ## Thank you ... 
-To Mary and Mahesh for your dedication to quality instruction, support, insight and recommendations throughout this learning experience;
-To Richard Champley at the National Travel and Tourism Office for additional support;
+To Mary and Mahesh for your dedication to quality instruction, support, insight and recommendations throughout this learning experience;  
+To Richard Champley at the National Travel and Tourism Office for additional support;  
 To Nashville Software School for providing exceptional quality educational programs.
 
