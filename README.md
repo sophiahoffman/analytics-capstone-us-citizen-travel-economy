@@ -16,7 +16,7 @@ In light of the recent shutdown in travel due to Covid-19, the question came to 
 Travel is a seasonal business with large fluctuations dependent on what might be considered peak vacation periods - summer vacation months of May through August and shorter periods for winter and spring break in December and March (generally).  
 
 ### A time series decomposition to break out seasonality shows the underlying trend in a monthly model  
-![Seasonal decomposition](./workbooks/time_series_decomp.jpg)
+![Seasonal decomposition](./workbooks/time_series_decomp.JPG)
 
 The underlying trend shows a clear picture of increasing travel.  
 
