@@ -12,7 +12,9 @@ In light of the recent shutdown in travel due to Covid-19, the question came to 
 3. Do certain destinations become less popular?  
 4. Do US citizens change where they travel to based on a change in the strength of the dollar?  
 
-## General Observations:
+## General Observations:  
+Tableau notebook is also located on Tableau Public: https://public.tableau.com/profile/sophia.hoffman#!/vizhome/us_travel/USIntlTravel  
+
 Travel is a seasonal business with large fluctuations dependent on what might be considered peak vacation periods - summer vacation months of May through August and shorter periods for winter and spring break in December and March (generally).  
 
 ### A time series decomposition to break out seasonality shows the underlying trend in a monthly model  
